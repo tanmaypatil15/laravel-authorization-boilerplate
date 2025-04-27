@@ -62,9 +62,9 @@ Easily manage user roles, permissions, and protect routes using middleware.
 
 ## Tech Stack
 
-- Laravel 10 (or your version)
+- Laravel 10
 - Spatie Laravel-Permission (v5.x or your version)
-- MySQL / SQLite (any database)
+- MySQL
 - TailwindCSS
 
 ---
