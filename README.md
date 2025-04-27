@@ -65,7 +65,7 @@ Easily manage user roles, permissions, and protect routes using middleware.
 - Laravel 10 (or your version)
 - Spatie Laravel-Permission (v5.x or your version)
 - MySQL / SQLite (any database)
-- (Optional) TailwindCSS / Bootstrap (mention if any front-end)
+- TailwindCSS
 
 ---
 
